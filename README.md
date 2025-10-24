@@ -8,4 +8,6 @@ Here, we show that VI recovers the mean of the target density $p$ if it exhibits
 That is, if $p(\mu + z) = p(\mu + Rz)$ for some rotation matrix $R$ and $Q$ is a spherically symmetric location family, then there exists a unique minimizer of the KL divergence from $q$ to $p$ when the points of symmetry coincide.
 
 
-![Alt text](plots/VI_ex1.png)
+<p align="center">
+  <img src="plots/VI_ex1.png" alt="VI Example; $\frac{2 \pi}{3}$-rotational symmetry" width="70%">
+</p>
